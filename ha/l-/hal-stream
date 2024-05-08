@@ -4,3 +4,4 @@
 {"name":"hal-stream","vers":"0.1.3","deps":[],"cksum":"6bcf77533341886499b4e1cbea217f1ef685f3a5dac60cc0d758993b588bef87","features":{},"repository":"ssh://git@github.com/Cube-OS/hal-stream.git","yanked":true,"links":null}
 {"name":"hal-stream","vers":"0.1.4","deps":[],"cksum":"c2da079ee361861f9298c273443dbd6fe1152c539e2f5b51c2959ad55c588aa2","features":{},"repository":"https://github.com/Cube-OS/hal-stream.git","yanked":false,"links":null}
 {"name":"hal-stream","vers":"0.1.5","deps":[],"cksum":"6fcb947922301e6523b45d4e1ab8b42fbee51a4211a50de2d00f7fa46d30dd2f","features":{},"repository":"https://github.com/Cube-OS/hal-stream.git","yanked":false,"links":null}
+{"name":"hal-stream","vers":"0.1.6","deps":[],"cksum":"a6fe96a70bc928291aa064b171f19c5a41d43d63dc9fa7821da3adea2e33205a","features":{},"repository":"https://github.com/Cube-OS/hal-stream.git","yanked":false,"links":null}
